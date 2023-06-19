@@ -509,6 +509,10 @@
                   {
                     "label": "Preventing outgoing DDOS",
                     "slug": "preventing-outgoing-ddos"
+                  },
+                  {
+                    "label": "Manually configuring private IP addresses",
+                    "slug": "manual-configuration-private-ips"
                   }
                 ],
                 "label": "Reference Content",
@@ -1824,10 +1828,6 @@
                   {
                     "label": "Using the VPC via the Scaleway API",
                     "slug": "vpc-private-beta"
-                  },
-                  {
-                    "label": "Adding a standalone Public Gateway to a Private Network",
-                    "slug": "standalone-pgw-rpn"
                   }
                 ],
                 "label": "API/CLI",
@@ -1888,10 +1888,6 @@
                   {
                     "label": "Use flexible IPs",
                     "slug": "use-flexible-ips"
-                  },
-                  {
-                    "label": "Use Private Networks",
-                    "slug": "use-private-networks"
                   },
                   {
                     "label": "Delete a Public Gateway",
